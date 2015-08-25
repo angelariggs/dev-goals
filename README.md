@@ -43,9 +43,10 @@ Before 2015 ends, I will:
 * [ ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
 * [ ] Complete the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
 
-###November 2015: 
+###November 2015: iOS Focus
 
-* [ ]
+* [ ] Complete [Swift Track](http://teamtreehouse.com/tracks/ios-development-with-swift) course on Treehouse
+* [ ] Complete [Objective C Track](http://teamtreehouse.com/tracks/ios-development-with-objectivec) on Treehouse
 
 ###December 2015: 
 
