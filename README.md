@@ -25,7 +25,7 @@ Before 2015 ends, I will:
 * Complete one kata from Codewars
 * Complete 10 hours of coursework on Treehouse
 
-###Monthly Goals
+###Monthly Goals:
 
 
 ###August 2015: Javascript / Front-End
@@ -41,7 +41,7 @@ Before 2015 ends, I will:
 
 * [ ] Complete a Wordpress.org website
 * [ ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
-* [ ] Continue the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
+* [ ] Complete the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
 
 ###November 2015: 
 
