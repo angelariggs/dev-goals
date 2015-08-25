@@ -6,7 +6,7 @@ As I begin my career as a developer, I'm trying to set goals to keep myself stru
 
 These are general goals that I want to meet as I continue through my career.
 
-* **Work with kids/youth and code:** Coding should be accessible to everyone, and I believe it's important to offer that access early. I will achieve this by making myself available as a mentor, through Cris's elementary program or one of the local volunteer groups.
+* **Work with kids/youth and code:** Coding should be accessible to everyone, and I believe it's important to offer that access early. I will achieve this by making myself available as a mentor, possibly through [Log Camp](https://www.logcamp.org/get-involved/for-teachers).
 * **Be a part of the tech community:** I will achieve this by continuing to write about my experiences on my website, and submitting articles as a guest writer to blogs such as A List Apart and The Pastry Box. 
 * **Be a voice for women in tech:** I will achieve this by getting involved with local groups for women in tech, and making myself available as a resource to women who are considering a career in development.
 
@@ -34,6 +34,8 @@ Before 2015 ends, I will:
 
 ###September 2015: Drupal / PHP Focus
 
+In September, I start a 2-month internship at a local Drupal agency, so I want to focus my goals in that direction. I expect that my September & October goals may change, depending on responsibilities and opportunities offered in my internship.
+
 * [ ] Complete the [PHP Track](http://teamtreehouse.com/tracks/php-development) on Treehouse
 * [ ] Continue the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
 
@@ -43,10 +45,12 @@ Before 2015 ends, I will:
 * [ ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
 * [ ] Complete the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
 
-###November 2015: iOS Focus
+###November 2015: Ruby on Rails Focus
 
-* [ ] Complete [Swift Track](http://teamtreehouse.com/tracks/ios-development-with-swift) course on Treehouse
-* [ ] Complete [Objective C Track](http://teamtreehouse.com/tracks/ios-development-with-objectivec) on Treehouse
+I see a lot of job listings requesting experience in Ruby on Rails/JavaScript, and I want to broaden my skills in a direction that makes me more eligible for dev jobs in Portland.
+
+* [ ] Complete [Ruby on Rails](http://teamtreehouse.com/tracks/rails-development) course on Treehouse
+* [ ] Complete various [Ruby on Rails workshops](http://teamtreehouse.com/library/q:rails) on Treehouse
 
 ###December 2015: 
 
