@@ -10,3 +10,7 @@
 * [ ] Verify AJAX functionality with new layout
 * [ ] Verify Orchestrate functionality
 * [ ] Use Passport for persistence on registration / log-in
+
+####Successes:
+
+####Lessons Learned:

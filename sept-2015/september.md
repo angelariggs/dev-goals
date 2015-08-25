@@ -10,27 +10,57 @@
 * [ ] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
 
+---
+
 ### Week of 08/30
 
 * [ ] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
+
+####Successes:
+
+####Lessons Learned:
+
+---
 
 ### Week of 09/06
 
 * [ ] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
 
+####Successes:
+
+####Lessons Learned:
+
+---
+
 ### Week of 09/13
 
 * [ ] Complete 10 hours of Treehouse Front-End Track
 * [ ] Complete one kata from Codewars
+
+####Successes:
+
+####Lessons Learned:
+
+---
 
 ### Week of 09/20
 
 * [ ] *Forthcoming*
 * [ ] Complete one kata from Codewars
 
+####Successes:
+
+####Lessons Learned:
+
+---
+
 ### Week of 09/27
 
 * [ ] *Forthcoming*
 * [ ] Complete one kata from Codewars
+
+####Successes:
+
+####Lessons Learned:
