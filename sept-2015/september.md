@@ -10,6 +10,10 @@
 * [ ] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
 
+####Successes:
+
+####Lessons Learned:
+
 ---
 
 ### Week of 08/30
