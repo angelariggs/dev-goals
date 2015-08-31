@@ -62,5 +62,6 @@ I see a lot of job listings requesting experience in Ruby on Rails/JavaScript, a
 * [Javascript for Kids](https://www.nostarch.com/javascriptforkids)
 * [Front-End Track at Treehouse](http://teamtreehouse.com/tracks/front-end-web-development)
 * [Drupal Basics at Treehouse](http://teamtreehouse.com/library/drupal-basics/upcoming)
+* [PHP track at Treehouse](http://teamtreehouse.com/tracks/php-development)
 * [Drupalize.me](https://drupalize.me/)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
