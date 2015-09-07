@@ -7,23 +7,14 @@
 
 ### Week of 08/30
 
-* [ ] Complete 10 hours of Treehouse PHP Track
+* [x] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
 
 ####Successes:
+I really enjoyed getting started in PHP! There are enough similarities to JavaScript that I feel confident in my ability to move quickly through the beginning courses; but it's different enough that I'm staying interested and having fun experimenting beyond the basics.
 
 ####Lessons Learned:
-
----
-
-### Week of 08/30
-
-* [ ] Complete 10 hours of Treehouse PHP Track
-* [ ] Complete one kata from Codewars
-
-####Successes:
-
-####Lessons Learned:
+I don't know that anything really went wrong this week. I had some social things planned that cut into my coding time, and I realize that I need to be firmer with myself about setting time limits and sticking to them.
 
 ---
 
@@ -40,8 +31,9 @@
 
 ### Week of 09/13
 
-* [ ] Complete 10 hours of Treehouse Front-End Track
+* [ ] Complete 10 hours of Treehouse PHP Track
 * [ ] Complete one kata from Codewars
+* This week, I'm starting the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) course at Portland Code School! My internship got pushed back a month, so this should help me stay productive, add to my portfolio, and get some more practice with my front-end skills.
 
 ####Successes:
 
