@@ -27,23 +27,23 @@ Before 2015 ends, I will:
 
 ###Monthly Goals:
 
+###September 2015: PHP Focus
 
-###August 2015: Javascript / Front-End
-
-* [ ] Complete v2 of snapOR
-
-###September 2015: Drupal / PHP Focus
-
-In September, I start a 2-month internship at a local Drupal agency, so I want to focus my goals in that direction. I expect that my September & October goals may change, depending on responsibilities and opportunities offered in my internship.
+*Update: My internship was pushed back to October, so my goals for September have been tweaked.* 
+With a whole month to myself, I want to make sure I keep improving my foundation, and also add new skills. I learned Backbone in my JS Immersion course, but I'd like more practice with MVCs. I like the Treehouse courses for this, because I'll end up with work that I can add to my portfolio.
 
 * [ ] Complete the [PHP Track](http://teamtreehouse.com/tracks/php-development) on Treehouse
-* [ ] Continue the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
+* [ ] Complete the [AngularJS](http://teamtreehouse.com/library/angularjs) course on Treehouse
+* [ ] Complete the [Ember.js](http://teamtreehouse.com/library/emberjs) course on Treehouse
+* [ ] Begin the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) Course at Portland Code School
 
 ###October 2015: Drupal / PHP Focus
 
+In October, I start a 2-month internship at a local Drupal agency, so I want to focus my goals in that direction. I expect that my October & November goals may change, depending on responsibilities and opportunities offered in my internship.
+
 * [ ] Complete a Wordpress.org website
 * [ ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
-* [ ] Complete the [Front-End Track](http://teamtreehouse.com/tracks/front-end-web-development) on Treehouse
+* [ ] Complete the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) Course at Portland Code School
 
 ###November 2015: Ruby on Rails Focus
 
