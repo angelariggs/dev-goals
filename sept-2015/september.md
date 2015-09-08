@@ -21,7 +21,9 @@ I don't know that anything really went wrong this week. I had some social things
 ### Week of 09/06
 
 * [ ] Complete 10 hours of Treehouse PHP Track
+* [ ] Complete AngularJS course on Treehouse (3 hours)
 * [ ] Complete one kata from Codewars
+* [ ] Write a blog post
 
 ####Successes:
 
@@ -32,6 +34,7 @@ I don't know that anything really went wrong this week. I had some social things
 ### Week of 09/13
 
 * [ ] Complete 10 hours of Treehouse PHP Track
+* [ ] Complete Ember.js track on Treehouse (2 hours)
 * [ ] Complete one kata from Codewars
 * This week, I'm starting the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) course at Portland Code School! My internship got pushed back a month, so this should help me stay productive, add to my portfolio, and get some more practice with my front-end skills.
 
@@ -43,7 +46,8 @@ I don't know that anything really went wrong this week. I had some social things
 
 ### Week of 09/20
 
-* [ ] *Forthcoming*
+* [ ] Complete 10 hours of Treehouse PHP Track
+* [ ] Work on basic styling for personal website & portfolio
 * [ ] Complete one kata from Codewars
 
 ####Successes:
