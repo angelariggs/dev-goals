@@ -16,9 +16,10 @@ I want to sharpen my overall JavaScript skills, especially in relation to front-
 
 Before 2015 ends, I will:
 
-* [ ] Complete v3 of snapOR, my capstone project
-* [ ] Complete the Front-End Dev track on Treehouse
-* [ ] Create a Wordpress site from scratch
+* [ ] Complete the PHP track on Treehouse
+* [ ] Complete the Advanced Front-End course at Portland Code School
+* [ ] Add an MVC piece to my portfolio (Angular or Ember)
+* [ ] Submit a post to The Pastry Box or other tech blog
 
 ####Weekly Tasks:
 
