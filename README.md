@@ -19,7 +19,7 @@ Before 2015 ends, I will:
 * [ ] Complete the PHP track on Treehouse
 * [ ] Complete the Advanced Front-End course at Portland Code School
 * [ ] Add an MVC piece to my portfolio (Angular or Ember)
-* [ x ] Submit a post to The Pastry Box or other tech blog: [Metal Toad Blog](http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship)
+* [x] Submit a post to The Pastry Box or other tech blog: [Metal Toad Blog](http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship)
 
 ####Weekly Tasks:
 
@@ -39,7 +39,7 @@ Before 2015 ends, I will:
 ###October 2015: Drupal / Angular Focus
 
 * [ ] Plan and begin a Drupal website
-* [ x ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
+* [x] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
 * [ ] Complete and present the front-end work for the [Hack Oregon](http://www.hackoregon.org/open-positions) Agriculture project
 * [ ] Begin an internal project at Metal Toad that focuses on Angular
 * [ ] Begin the [Swift](http://teamtreehouse.com/tracks/ios-development-with-swift) track on Treehouse (19 hours total)
