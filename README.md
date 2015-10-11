@@ -19,7 +19,7 @@ Before 2015 ends, I will:
 * [ ] Complete the PHP track on Treehouse
 * [ ] Complete the Advanced Front-End course at Portland Code School
 * [ ] Add an MVC piece to my portfolio (Angular or Ember)
-* [ ] Submit a post to The Pastry Box or other tech blog
+* [ x ] Submit a post to The Pastry Box or other tech blog: [Metal Toad Blog](http://www.metaltoad.com/blog/interns-instantaneous-toadness-internship)
 
 ####Weekly Tasks:
 
@@ -30,28 +30,24 @@ Before 2015 ends, I will:
 
 ###September 2015: PHP Focus
 
-*Update: My internship was pushed back to October, so my goals for September have been tweaked.* 
-With a whole month to myself, I want to make sure I keep improving my foundation, and also add new skills. I learned Backbone in my JS Immersion course, but I'd like more practice with MVCs. I like the Treehouse courses for this, because I'll end up with work that I can add to my portfolio.
+*Update: My internship started at the end of September (woohoo!). Goals are somewhat in progress, as my experience in various areas of dev brings different opportunities and ideas.* 
 
 * [ ] Complete the [PHP Track](http://teamtreehouse.com/tracks/php-development) on Treehouse
-* [ ] Complete the [AngularJS](http://teamtreehouse.com/library/angularjs) course on Treehouse
-* [ ] Complete the [Ember.js](http://teamtreehouse.com/library/emberjs) course on Treehouse
+* [ ] Complete the [AngularJS](codeschool.com/courses/shaping-up-with-angular-js) course on CodeSchool
 * [ ] Begin the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) Course at Portland Code School
 
-###October 2015: Drupal / PHP Focus
+###October 2015: Drupal / Angular Focus
 
-In October, I start a 2-month internship at a local Drupal agency, so I want to focus my goals in that direction. I expect that my October & November goals may change, depending on responsibilities and opportunities offered in my internship.
+* [ ] Plan and begin a Drupal website
+* [ x ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
+* [ ] Complete and present the front-end work for the [Hack Oregon](http://www.hackoregon.org/open-positions) Agriculture project
+* [ ] Begin an internal project at Metal Toad that focuses on Angular
+* [ ] Begin the [Swift](http://teamtreehouse.com/tracks/ios-development-with-swift) track on Treehouse (19 hours total)
 
-* [ ] Complete a Wordpress.org website
-* [ ] Complete the [Drupal Basics](http://teamtreehouse.com/library/drupal-basics/upcoming) course on Treehouse
-* [ ] Complete the [Advanced Front-End](http://www.portlandcodeschool.com/advancedfe/) Course at Portland Code School
+###November 2015: Swift
 
-###November 2015: Ruby on Rails Focus
-
-I see a lot of job listings requesting experience in Ruby on Rails/JavaScript, and I want to broaden my skills in a direction that makes me more eligible for dev jobs in Portland.
-
-* [ ] Complete [Ruby on Rails](http://teamtreehouse.com/tracks/rails-development) course on Treehouse
-* [ ] Complete various [Ruby on Rails workshops](http://teamtreehouse.com/library/q:rails) on Treehouse
+* [ ] Continue the [Swift](http://teamtreehouse.com/tracks/ios-development-with-swift) track on Treehouse
+* [ ] Partner up with Cesar to work on Swift projects
 
 ###December 2015: 
 
